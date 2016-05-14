@@ -1,0 +1,44 @@
+Instructions:
+Must Run executable on Windows ONLY
+
+Limit of 4 course
+
+Limit of 1 project per course
+
+Limit of 2 groups
+
+Limit of 6 users
+
+Limit of 1 message per user
+
+Limit of 1 SLAP statements
+
+
+
+Student 
+
+Username, Password
+
+1. andy, pass
+
+2. james, gooo
+
+3. john, login
+
+
+
+Instructor
+
+Username, Password
+
+1. instr, ipass
+
+
+
+Admin
+
+Username, Password
+1. admin, apass
+
+
+
